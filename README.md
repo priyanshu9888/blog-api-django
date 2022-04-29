@@ -20,5 +20,3 @@
 )
   ![alt text](https://github.com/priyanshu9888/tanentverify-image/blob/main/Screenshot%20(40).png
 )
-  ![alt text]( https://github.com/priyanshu9888/tanentverify-image/blob/main/Screenshot%20(39).png
-)
