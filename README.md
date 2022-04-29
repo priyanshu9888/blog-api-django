@@ -1,6 +1,5 @@
 # blog-api-django
-  url  api/v1/rest-auth/registration/  for registration
-  url  api/v1/    for show post
-  url   docs/     for documentation of api
-  url  api-auth/login/   for login user
-  url  
+  <p>url  http://127.0.0.1:8000/api/v1/rest-auth/registration/  for registration</p>
+  <p>url  http://127.0.0.1:8000/api/v1/  show all post and create post</p>
+  <p>url  http://127.0.0.1:8000/api-auth/login/   for login user</p>
+  <p> url http://127.0.0.1:8000/api/v1/rest-auth/ for put post
