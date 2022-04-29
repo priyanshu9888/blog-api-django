@@ -10,3 +10,9 @@
   <p> create virtual env </p>
   <p> pip install -r requirements.txt </p>
   <p> run code python manage.py runserver </p>
+
+
+  https://github.com/priyanshu9888/tanentverify-image/blob/main/Screenshot%20(40).png?raw=true
+  https://github.com/priyanshu9888/tanentverify-image/blob/main/Screenshot%20(41).png?raw=true
+  https://github.com/priyanshu9888/tanentverify-image/blob/main/Screenshot%20(40).png?raw=true
+  https://github.com/priyanshu9888/tanentverify-image/blob/main/Screenshot%20(39).png?raw=true
